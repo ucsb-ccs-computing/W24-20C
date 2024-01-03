@@ -34,7 +34,7 @@ cal_dates: >
     {"label":"Group Project M3 Due", "date":"2024-03-13" },
     {"label":"W24 instruction ends", "date":"2024-03-15" },
     {"label":"Lightning Talk Due", "date":"2024-03-04" },                   
-    {"label":"W23 qtr ends", "date":"2024-03-22" }                              
+    {"label":"W24 qtr ends", "date":"2024-03-22" }                              
   ]
 
 kramdown:
