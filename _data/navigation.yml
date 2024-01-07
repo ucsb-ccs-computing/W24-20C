@@ -19,10 +19,13 @@ home:
    baseurl: /
 
 offerings:
-   title: "W23-20C"
+   title: "W24-20C"
    url: /	
-   baseurl: /W23-20C
+   baseurl: /W24-20C
    items:
+      - title: "W24-20C"
+        url: /	
+        baseurl: /W24-20C
       - title: "W23-20C"
         url: /
         baseurl: /W23-20C
